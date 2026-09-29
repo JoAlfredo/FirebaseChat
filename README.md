@@ -1,19 +1,19 @@
-# React + Vite
+ # :fire: Chat App with React & Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+ Website created for chatting using Firebase.
 
-Currently, two official plugins are available:
+ <img width="1905" height="952" alt="2026-09-29_15-11-11" src="https://github.com/user-attachments/assets/8ffeddf0-fb45-411d-a09f-5dd8f31db269" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+<img width="1907" height="952" alt="2026-09-29_15-11-37" src="https://github.com/user-attachments/assets/d725b519-7bb3-45a3-bdce-362bb01b8afc" />
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## :gear: Tecnologies
+- React 18 <br/>
+- Vitejs <br/>
+- Vercel <br/>
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+## :link: NPM
+- <a href="https://www.npmjs.com/package/emoji-picker-react"> emoji-picker-react </a>
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## :fire: Development Plataform 
+- <a href="https://firebase.google.com/"> Firebase </a>
